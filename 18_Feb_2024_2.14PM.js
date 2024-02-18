@@ -58,7 +58,7 @@ const SentimentData = {
     },
     'Stellar': {
       positive: 45.00,
-      negative: 36.00,
+      negative: 35.00,
       neutral: 20.00
     },
 
